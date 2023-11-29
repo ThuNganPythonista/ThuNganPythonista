@@ -33,6 +33,6 @@ I'm currently build a algorithmic platform for my organization !!
 
 ### My learning path:
 
-![image](https://user-images.githubusercontent.com/56567195/179879911-0ade383a-8440-4478-9e3f-8a461e9fbae5.png](https://drive.google.com/file/d/1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ/view)https://drive.google.com/file/d/1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ/view)
+![image]([https://user-images.githubusercontent.com/56567195/179879911-0ade383a-8440-4478-9e3f-8a461e9fbae5.png](https://drive.google.com/file/d/1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ/view)https://drive.google.com/file/d/1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ/view](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ%26export%3Ddownload)https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ%26export%3Ddownload)
 
 
