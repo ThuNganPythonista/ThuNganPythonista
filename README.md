@@ -8,7 +8,7 @@ Currently, I am focusing on full-stack development with the Python language, spe
 So, I am looking to collaborate on web fullstack by Django framework If you are interested 🐧
 + Reach me :
     - 📩 : phamngocthungan27@gmail.com
-    - [Discord: ][https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I](https://discord.gg/gQHmGkZB)
+    - Discord: [https://discord.gg/gQHmGkZB](https://discord.gg/gQHmGkZB)
 
 
 ### Some of my products : 
@@ -31,7 +31,7 @@ I write introduction about Apps feature in Django by my own social account and p
 
 I'm currently build a algorithmic platform for my organization !!
 
-My learning path:
+### My learning path:
 
 ![image](https://user-images.githubusercontent.com/56567195/179879911-0ade383a-8440-4478-9e3f-8a461e9fbae5.png](https://drive.google.com/file/d/1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ/view)https://drive.google.com/file/d/1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ/view)
 
