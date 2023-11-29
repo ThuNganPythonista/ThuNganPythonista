@@ -33,6 +33,5 @@ I'm currently build a algorithmic platform for my organization !!
 
 ### My learning path:
 
-![image](https://viewer.diagrams.net/index.html?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jDOjhnRe-yXrM9Fv4h4vnRd0omNVI0dJ%26export%3Ddownload)
-
+![image](https://github.com/ThuNganPythonista/ThuNganPythonista/blob/main/Untitled%20Diagram.drawio.png)
 
