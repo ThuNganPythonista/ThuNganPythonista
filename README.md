@@ -14,6 +14,7 @@ So, I am looking to collaborate on web fullstack by Django framework If you are 
 ### Some of my products : 
 
 + Hades-Django : [https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I](https://github.com/ThuNganPythonista/Django-Hades)https://github.com/ThuNganPythonista/Django-Hades](https://github.com/ThuNganPythonista/Django-Hades)
+  
 +Code Lofi : [https://github.com/ThuNganPythonista/Code-Lofi](https://github.com/ThuNganPythonista/Code-Lofi)https://github.com/ThuNganPythonista/Code-Lofi
 + TestCase :
 + welcomebot : [https://github.com/ThuNganPythonista/welcomebot](https://github.com/ThuNganPythonista/welcomebot)
