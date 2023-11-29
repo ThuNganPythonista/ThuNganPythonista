@@ -4,7 +4,7 @@ Hello, I'm Ngan
 Currently, I am focusing on full-stack development with the Python language, specifically using pure HTML, CSS, and the Django framework.
 
 + My skills : HTML, CSS, JQuery, SQL, Python, Django.
-+ Reknowned Web by Django such as : Instagram, Pinterest, Dropbox, Spotify, etc ...
++ Reknowned Webs using Django such as : Instagram, Pinterest, Dropbox, Spotify, etc ...
 So, I am looking to collaborate on web fullstack by Django framework If you are interested 🐧
 + Reach me :
     - 📩 : phamngocthungan27@gmail.com
