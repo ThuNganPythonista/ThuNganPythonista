@@ -8,7 +8,7 @@ Currently, I am focusing on full-stack development with the Python language, spe
 So, I am looking to collaborate on web fullstack by Django framework If you are interested 🐧
 + Reach me :
     - 📩 : phamngocthungan27@gmail.com
-    - [Discord: ]([https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I](https://discord.gg/gQHmGkZB))
+    - [Discord: ][https://www.youtube.com/playlist?list=PL1yLvINYNFc_OR0it4nz79ceqO1uZCQ9I](https://discord.gg/gQHmGkZB)
 
 
 ### Some of my products : 
