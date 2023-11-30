@@ -33,6 +33,11 @@ I write introduction about Apps feature in Django by my own social account and p
 
 I'm currently build a algorithmic platform for my organization !!
 
+### OTHER ACTIVITIES :
+•	Participated in providing debugging support for the workbench section in our organization's Discord community with over 16,000 members : https://discord.com/channels/853907347528220712/1019646980957405325
+•	I enjoy reading articles related to the field of programming and rewriting them : https://docs.google.com/document/d/1M_0vQV43DIpdOx5NI6tF9-ec5xhv1gZ6s2BjOsbMcGw/edit?usp=sharing
+
+
 ### My learning path:
 
 ![image](https://github.com/ThuNganPythonista/ThuNganPythonista/blob/main/Untitled%20Diagram.drawio.png)
