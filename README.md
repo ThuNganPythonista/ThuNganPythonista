@@ -2,7 +2,8 @@
 
 Hello, I'm Ngan
 Currently, I am focusing on full-stack development with the Python language, specifically using pure HTML, CSS, and the Django framework.
-Wibu, Vozer 🐧
+
+Wibu, Vozer, Arena of Valor 🐧
 
 + My skills : HTML, CSS, JQuery, SQL, Python, Django.
 + Reknowned Webs using Django such as : Instagram, Pinterest, Dropbox, Spotify, etc ...
