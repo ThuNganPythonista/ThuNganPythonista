@@ -1,4 +1,4 @@
-### Web Developer 👋
+### DJANGO WEB BACK-END Developer 👋
 
 Hello, I'm Ngan
 Currently, I am focusing on full-stack development with the Python language, specifically using pure HTML, CSS, and the Django framework.
