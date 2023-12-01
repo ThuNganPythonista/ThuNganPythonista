@@ -22,7 +22,7 @@ So, I am looking to collaborate on web fullstack by Django framework If you are 
 ### Some of my tutorials : 
 
 + AUTHENTICATION SYSTEM of Django : [https://github.com/ThuNganPythonista/Django-AuthenticationSystem-Tutorial](https://github.com/ThuNganPythonista/Django-AuthenticationSystem-Tutorial)
-+ GIT : [https://github.com/ThuNganPythonista/GIT](https://github.com/ThuNganPythonista/GIT)
++ GIT - GOOGLE and CHATGPT never tell you : [https://github.com/ThuNganPythonista/GIT](https://github.com/ThuNganPythonista/GIT)
 + How to Run DMOJ (algorithmic Web) on MacOs :
   
 + Apps In Django : [https://www.facebook.com/groups/devoiminhdidauthe/permalink/23968231386153907/](https://www.facebook.com/groups/devoiminhdidauthe/permalink/23968231386153907/)
