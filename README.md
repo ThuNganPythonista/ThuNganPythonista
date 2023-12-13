@@ -30,7 +30,7 @@ So, I am looking to collaborate on web fullstack by Django framework If you are 
 + Apps In Django : [https://www.facebook.com/groups/devoiminhdidauthe/permalink/23968231386153907/](https://www.facebook.com/groups/devoiminhdidauthe/permalink/23968231386153907/)
 I write introduction about Apps feature in Django by my own social account and post it the group of developers for everyone.
 
-+ USER and Custom User in Django : [https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing](https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing)
++ User System And Custom User Models In Django : [https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing](https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing)
   
 
 ### Besides, in each of README.md file on my repos also have step by step instructions for the project !!!
