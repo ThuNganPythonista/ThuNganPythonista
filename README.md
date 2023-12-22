@@ -26,6 +26,7 @@ So, I am looking to collaborate on web fullstack by Django framework If you are 
 + AUTHENTICATION SYSTEM of Django : [https://github.com/ThuNganPythonista/Django-AuthenticationSystem-Tutorial](https://github.com/ThuNganPythonista/Django-AuthenticationSystem-Tutorial)
 + GIT - GOOGLE and CHATGPT never tell you : [https://github.com/ThuNganPythonista/GIT](https://github.com/ThuNganPythonista/GIT)
 + How to Run DMOJ (algorithmic Web) on MacOs : [https://github.com/ThuNganPythonista/Mapping-of-Linux-and-MacOs](https://github.com/ThuNganPythonista/Mapping-of-Linux-and-MacOs)
++ INSTRUCTION MELYOJ : [https://docs.google.com/document/d/1xlKEmaXDh0TEMaNMXHijv4FMajxsY4zBUbfLdRflMNc/edit](https://docs.google.com/document/d/1xlKEmaXDh0TEMaNMXHijv4FMajxsY4zBUbfLdRflMNc/edit)
   
 + Apps In Django : [https://www.facebook.com/groups/devoiminhdidauthe/permalink/23968231386153907/](https://www.facebook.com/groups/devoiminhdidauthe/permalink/23968231386153907/)
 I write introduction about Apps feature in Django by my own social account and post it the group of developers for everyone.
