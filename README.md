@@ -34,7 +34,9 @@ So, I am looking to collaborate on web fullstack by Django framework If you are 
 I write introduction about Apps feature in Django by my own social account and post it the group of developers for everyone.
 
 + User System And Custom User Models In Django : [https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing](https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing)
-  
+
++ Deploy a Django web app to Vercel host :
+
 
 ### Besides, in each of README.md file on my repos also have step by step instructions for the project !!!
 
