@@ -35,7 +35,7 @@ I write introduction about Apps feature in Django by my own social account and p
 
 + User System And Custom User Models In Django : [https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing](https://docs.google.com/document/d/16xz23zC0bmDl8Ar24rBtSJKoTDEWhCk9TOL_4a_Nfro/edit?usp=sharing)
 
-+ Deploy a Django web app to Vercel host :
++ Deploy a Django web app to Vercel host : [https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-)
 
 
 ### Besides, in each of README.md file on my repos also have step by step instructions for the project !!!
