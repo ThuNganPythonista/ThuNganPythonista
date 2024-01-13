@@ -37,7 +37,7 @@ I write introduction about Apps feature in Django by my own social account and p
 
 + Deploy a Django web app to Vercel host : [https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-](https://github.com/ThuNganPythonista/Deploy-a-Django-web-app-to-Vercel-)
 
-+ Docker for Beginners : [https://github.com/ThuNganPythonista/Docker-for-Beginners](https://github.com/ThuNganPythonista/Docker-for-Beginners)
++ Docker for Beginners  🐳 🐳 🐳 : [https://github.com/ThuNganPythonista/Docker-for-Beginners](https://github.com/ThuNganPythonista/Docker-for-Beginners)
 
 
 ### Besides, in each of README.md file on my repos also have step by step instructions for the project !!!
