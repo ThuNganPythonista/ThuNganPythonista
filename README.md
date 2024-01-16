@@ -42,6 +42,7 @@ I write introduction about Apps feature in Django by my own social account and p
 
 + SET UP THE JUDGE FOR ALGORITHMIC PLATFORM : [https://github.com/ThuNganPythonista/DMOJ/blob/main/README.md](https://github.com/ThuNganPythonista/DMOJ/blob/main/README.md)
 
+**VIDEO SETUP THE JUDGE:**
 
 ### Besides, in each of README.md file on my repos also have step by step instructions for the project !!!
 
