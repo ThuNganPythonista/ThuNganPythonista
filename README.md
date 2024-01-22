@@ -5,7 +5,7 @@ Currently, I am focusing on full-stack development with the Python language, spe
 
 Sailormoon 🐧
 
-+ My skills : HTML, CSS, JQuery, MYSQL, Python, Django.
++ My skills : PURE FONTEND,DATAGRIP, PHPADMIN, MYSQL, Python, Django, GRAPHQL, DOCKER.
 + Reknowned Webs using Django such as : Instagram, Pinterest, Dropbox, Spotify, etc ...
 So, I am looking to collaborate on web fullstack by Django framework If you are interested 🐧
 + Reach me :
