@@ -25,6 +25,8 @@ So, I am looking to collaborate on web fullstack by Django framework If you are 
   
 + Christmas Tree 🎄 : [https://github.com/ThuNganPythonista/Christmas-Tree](https://github.com/ThuNganPythonista/Christmas-Tree)
 
++ SkinData - DermaTech : [https://www.figma.com/proto/ofKFV3XEzU2DttFmnX2yyY/DermaTech?type=design&node-id=2-3&t=os8sVv4S2w1VuvFq-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3](https://www.figma.com/proto/ofKFV3XEzU2DttFmnX2yyY/DermaTech?type=design&node-id=2-3&t=os8sVv4S2w1VuvFq-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3)
+
 ### Some of my tutorials : 
 
 + SET UP THE JUDGE AND SITE FOR ALGORITHMIC PLATFORM (dmoj judge server) : [https://github.com/ThuNganPythonista/DMOJ/blob/main/README.md](https://github.com/ThuNganPythonista/DMOJ/blob/main/README.md)
